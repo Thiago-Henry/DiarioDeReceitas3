@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SSmotos</string>
+    <string name="entrar">Entrar</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="confirmarSenha">Confirmar Senha</string>
+</resources>
